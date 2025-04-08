@@ -1,0 +1,6 @@
+../Core/Src/flash.c:10:6:Flash_Unlock	3
+../Core/Src/flash.c:18:6:Flash_Lock	1
+../Core/Src/flash.c:22:6:Flash_ErasePage	3
+../Core/Src/flash.c:31:6:Flash_Write	3
+../Core/Src/flash.c:39:6:Flash_WriteString	2
+../Core/Src/flash.c:56:6:Flash_ReadString	4

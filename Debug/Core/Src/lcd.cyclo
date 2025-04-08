@@ -1,0 +1,12 @@
+../Core/Src/lcd.c:20:6:delay_ms	2
+../Core/Src/lcd.c:25:6:gpio_writebit	2
+../Core/Src/lcd.c:33:6:GPIO_LCD_Config	1
+../Core/Src/lcd.c:52:6:LCD_Enable	1
+../Core/Src/lcd.c:61:6:LCD_Send4Bit	1
+../Core/Src/lcd.c:70:6:LCD_SendCommand	1
+../Core/Src/lcd.c:81:6:LCD_Clear	1
+../Core/Src/lcd.c:88:6:LCD_Init	1
+../Core/Src/lcd.c:106:6:LCD_Gotoxy	5
+../Core/Src/lcd.c:117:6:LCD_PutChar	1
+../Core/Src/lcd.c:125:6:LCD_Puts	2
+../Core/Src/lcd.c:134:6:LCD_Menu	1
